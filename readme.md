@@ -12,6 +12,7 @@ You describe the app you want in natural language, and an LLM (via LiteLLM) iter
 
 All of this is orchestrated through a single `main.py` Flask server with a built-in “builder panel” that you can open/close while using the generated app.
 
+Live example: https://www.dittoagent.site/
 ---
 
 ## Features
